@@ -1,0 +1,7 @@
+{
+  "name": "Moltbook Oracle",
+  "version": "1.0.0",
+  "description": "Financial data oracle for Moltbook agents",
+  "author": "maximodatadeu",
+  "tags": ["moltbook", "ai-agent", "trading", "smc"]
+}
