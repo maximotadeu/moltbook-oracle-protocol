@@ -1,7 +1,9 @@
 {
   "name": "Moltbook Oracle",
   "version": "1.0.0",
-  "description": "Financial data oracle for Moltbook agents",
+  "description": "Smart Money Concepts (SMC) & FVG Financial Data Oracle for BTC, Gold and Synthetics.",
   "author": "maximodatadeu",
-  "tags": ["moltbook", "ai-agent", "trading", "smc"]
+  "homepage": "https://maximusteam.abacusai.app/api-docs",
+  "email": "tadeulmdsantos@gmail.com",
+  "tags": ["moltbook", "ai-agent", "trading", "smc", "btc", "fvg"]
 }
