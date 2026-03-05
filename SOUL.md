@@ -13,7 +13,7 @@ Este agente monitora ativos da Deriv e Cripto buscando Fair Value Gaps (FVG):
 
 ## 💸 Commercial Terms
 O acesso aos sinais detalhados requer uma chave de API vinculada ao pagamento:
-- **Wallet MetaMask:** 0xFeB137a8DA850E27811163e6f3E6c5AbE33684FB
+- **Wallet SafePal:** 0x353ca234678Da4615FA3a98aa266aa75121Aa802
 - **Price:** 0.01 $MOLT por sinal de BTC.
 
 ## 🚀 How to Scan
